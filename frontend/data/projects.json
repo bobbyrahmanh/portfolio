@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "Title": "JOINMUN",
+    "Description": "Website resmi untuk konferensi Model United Nations tingkat internasional. Fokus pada performa dan UI yang elegan menggunakan Next.js.",
+    "DesktopImage": "/JOINMUN.png",
+    "LiveUrl": "https://joinmun.id",
+    "TechStack": "Next.js, Tailwind CSS, Typescript",
+    "Year": 2025
+  },
+  {
+    "id": 2,
+    "Title": "StudentsXCEOs",
+    "Description": "As a Front-End Developer, I played a key role in building the StudentsxCEOs website by developing the entire landing page and chapter page from the ground up. I was responsible for translating design concepts into responsive, interactive, and user-friendly interfaces, ensuring a seamless experience across devices. Throughout the process, I focused on clean, efficient code and consistency in design to align with the platform’s vision and branding, while collaborating closely with the team to deliver a polished final product.",
+    "DesktopImage": "/StudentsXCEOs.png",
+    "LiveUrl": "https://studentsxceos.vercel.app",
+    "TechStack": "Next.js, Tailwind CSS, Typescript",
+    "Year": 2026
+  },
+
+  {
+    "id": 3,
+    "Title": "Personal Website Project",
+    "Description": "Developed an interactive personal website using HTML, CSS, and JavaScript, focusing on creating a visually engaging and meaningful user experience. The project showcases my ability to structure layouts, apply custom styling, and implement smooth interactions. Designed primarily for desktop viewing, this project highlights both my front-end fundamentals and creativity in building a personalized digital experience.",
+    "DesktopImage": "/gf.png",
+    "LiveUrl": "https://pororot.vercel.app",
+    "TechStack": "Next.js, Tailwind CSS, Typescript",
+    "Year": 2025
+  },
+
+  {
+    "id": 4,
+    "Title": "OmahTI OPREC Assignment",
+    "Description": "Developed a personalized interactive website using HTML, CSS, and JavaScript, focusing on creating a meaningful and engaging user experience. The project highlights my ability to combine front-end fundamentals with creative design and smooth interactions.",
+    "DesktopImage": "/OmahTI.png",
+    "LiveUrl": "https://github.com/bobbyrahmanh/OPREC-OmahTI-FrontEnd",
+    "TechStack": "Next.js, Tailwind CSS, Typescript",
+    "Year": 2024
+  }
+]
