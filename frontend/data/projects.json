@@ -2,7 +2,7 @@
   {
     "id": 1,
     "Title": "JOINMUN",
-    "Description": "Website resmi untuk konferensi Model United Nations tingkat internasional. Fokus pada performa dan UI yang elegan menggunakan Next.js.",
+    "Description": "As a Junior Front-End Developer, I contributed to the development of several key sections of a landing page, including the About Us, Welcoming Remarks, and Call-to-Action (CTA) sections. I collaborated with the team to implement responsive and user-friendly interfaces, ensuring a cohesive and engaging user experience. Additionally, I focused on writing clean and maintainable code while aligning the design with the overall branding and goals of the project.",
     "DesktopImage": "/JOINMUN.png",
     "LiveUrl": "https://joinmun.id",
     "TechStack": "Next.js, Tailwind CSS, Typescript",
