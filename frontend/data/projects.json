@@ -24,7 +24,7 @@
     "Description": "Developed an interactive personal website using HTML, CSS, and JavaScript, focusing on creating a visually engaging and meaningful user experience. The project showcases my ability to structure layouts, apply custom styling, and implement smooth interactions. Designed primarily for desktop viewing, this project highlights both my front-end fundamentals and creativity in building a personalized digital experience.",
     "DesktopImage": "/gf.png",
     "LiveUrl": "https://pororot.vercel.app",
-    "TechStack": "Next.js, Tailwind CSS, Typescript",
+    "TechStack": "HTML, CSS, JS",
     "Year": 2025
   },
 
@@ -34,7 +34,7 @@
     "Description": "Developed a personalized interactive website using HTML, CSS, and JavaScript, focusing on creating a meaningful and engaging user experience. The project highlights my ability to combine front-end fundamentals with creative design and smooth interactions.",
     "DesktopImage": "/OmahTI.png",
     "LiveUrl": "https://github.com/bobbyrahmanh/OPREC-OmahTI-FrontEnd",
-    "TechStack": "Next.js, Tailwind CSS, Typescript",
+    "TechStack": "HTML, CSS, JS",
     "Year": 2024
   }
 ]
